@@ -1,4 +1,4 @@
-# ICT_bonus
+# It is for bonus
 Here is ERD created by Duman Marlambekov and Askar Rafail.
 
-![ERD](ICT (2).png)
+![ICT](ICT (2).png)
